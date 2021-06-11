@@ -1,0 +1,26 @@
+{
+  "wiproList":[
+    {
+      "shareName":"cloudknox",
+      "noOfShare":30,
+      "sharePrice":520
+    },
+    {
+      "shareName":"headspin",
+      "noOfShare":55,
+      "sharePrice":650
+    }
+  ],
+  "bajajList":[
+    {
+      "shareName":"bajaj finance",
+      "noOfShare":75,
+      "sharePrice":460
+    },
+    {
+      "shareName":"bajaj auto",
+      "noOfShare":56,
+      "sharePrice":920
+    }
+  ]
+}

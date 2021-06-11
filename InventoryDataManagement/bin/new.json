@@ -1,0 +1,39 @@
+{
+	"riceList": [
+			{
+				"name": "basmati rice",
+				"weight": 30,
+				"pricePerKg": 52
+			},
+			{
+				"name": "brown",
+				"weight": 25,
+				"pricePerKg": 65
+			}
+		],
+	"pulsesList": [
+			{
+				"name": "green gram",
+				"weight": 10,
+				"pricePerKg": 100	
+			},
+			{
+				"name": "bengal",
+				"weight": 20,
+				"pricePerKg": 92
+			}
+		],
+	"wheatList": [
+			{
+				"name": "soft white",
+				"weight": 52,
+				"pricePerKg": 30
+			},
+			{
+				"name": "red winter",
+				"weight": 52,
+				"pricePerKg": 25
+			}
+		]
+
+}
