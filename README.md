@@ -48,3 +48,10 @@
    **e. Hint ->** Create Stock and Stock Portfolio Class holding the list of Stocks read
    from the input file. Have functions in the Class to calculate the value of each
    stock and the value of total stocks.
+   
+
+4. Write a Program **DeckOfCards.java**, to initialize deck of cards having suit ("Clubs",
+   "Diamonds", "Hearts", "Spades") & Rank ("2", "3", "4", "5", "6", "7", "8", "9", "10",
+   "Jack", "Queen", "King", "Ace"). Shuffle the cards using Random method and then
+   distribute 9 Cards to 4 Players and Print the Cards the received by the 4 Players
+   using 2D Array…
